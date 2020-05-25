@@ -1,14 +1,16 @@
 /* write your override styles here */
 #wall .tag-1 {
-  display:none;
+  display: none;
 }
 
 #wall #tag-2 {
-  display:none;
+  display: none;
 }
 
 #wall .tag-3 {
-  display:none;
+  display: none;
 }
 
-.parent #
+.parent #tag-4 {
+  display: none;
+}
